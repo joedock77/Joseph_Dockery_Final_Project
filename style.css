@@ -1,0 +1,161 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+#background_1 {background-image: url("https://www.pixelstalk.net/wp-content/uploads/images4/4K-Space-Wallpaper-1-1536x864.jpg");
+background-size: auto auto;
+}
+#background_2 {background-image: url("https://pbs.twimg.com/profile_images/561736556151451650/cOcW_HXk_400x400.jpeg");
+}
+#background_3 {background-image: url("https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/space-mountain/space-mountain-00.jpg?1559892391044");
+}
+#background_4 {background-image: url("https://images.genius.com/04a1e57936ccd18351bb6c40c4be2cd6.650x382x1.jpg");
+
+}
+#background_5 {background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2022/01/Dark-True-Reason-for-the-Prize-Money-in-Squid-Game.jpg");
+  
+}
+#background_6 {background-image: url("https://i.ytimg.com/vi/FPXoYXxg1Ug/maxresdefault.jpg");
+  
+}
+#background_7 {background-image: url("https://i.ytimg.com/vi/GdFseh79hm8/maxresdefault.jpg");
+  
+}
+#background_8 {background-image: url("https://c.tenor.com/33h98anrPCsAAAAM/stressed-out-suspense.gif");
+  
+}
+#background_9 {background-image: url("https://c.tenor.com/isPNb7cHtiYAAAAC/patrick-star-in-love.gif");
+  
+}
+#background_wrong {background-image: url("http://mitchmartinez.com/wp-content/uploads/2014/05/Fire-74.jpg")}
+
+ #background_rickroll { background-image: url(https://c.tenor.com/_4YgA77ExHEAAAAC/rick-roll.gif); }
+
+#no_boarder{
+	background:  none;
+}
+.boarder {
+
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: lightgreen;
+  background-color: paleturquoise;
+  text-align: center;
+}
+
+#textbox_1 { 
+  
+  background-color: paleturquoise;
+  text-align: center;
+}
+#textbox_green { 
+  
+  background-color: lightcoral;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+}
+#textbox_july { 
+  
+  background-color: hotpink;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+}
+#textbox_calarts { 
+  
+  background-color: teal;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_images { 
+  
+  background-color: yellowgreen;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_continue { 
+  
+  background-color: firebrick;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_areyousure { 
+  
+  background-color: black;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+
+#textbox_finalquestion { 
+  
+  background-color: royalblue;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_money { 
+  
+  background-color: lightseagreen;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_wrong { 
+  
+  background-color: orange;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#textbox_seethrough { 
+  
+  background-color: transparent;
+  text-align: center;
+  border-width: 3px;
+  border-radius: 10px;
+
+}
+#title {
+	background-color:  white;
+	text-align: center;
+font-family: 'Open Sans', sans-serif;
+}
+#question_1 {
+	background-color:  white;
+text-align: center;
+}
+#green_or_blue {
+
+	background-color:paleturquoise;
+}
+
+footer {
+	background-color: white;
+	text-align: center;
+}
+
+#header_center {
+	text-align: center; 
+
+}
+
+ul {
+  list-style-type: none;
+  font-size: 30px;
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+
+ 
